@@ -7,7 +7,7 @@
   <p><em>Systems Analysis & Development student | Aspiring .NET Developer & Game Designer</em></p>
 
   <a href="https://github.com/JotaMulberry">
-    <img src="https://img.shields.io/github/followers/JotaMulberry?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/jpsantosmoreira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" alt="LinkedIn"/>
@@ -35,13 +35,15 @@
   <h2>Skills & Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white" />
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white" />
     <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
     <img src="https://img.shields.io/badge/AutoCAD-EF1C25?logo=autodesk&logoColor=white" />
   </p>
@@ -52,19 +54,19 @@
 <div align="center">
   <h2>Social & Gaming</h2>
   <a href="https://www.instagram.com/jp.santos.moreira/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/jota_mulberry">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@Jota_Mulberry">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.tiktok.com/@jota_mulberry">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white">
   </a>
   <a href="https://x.com/Mullbery_Jota">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
   </a>
   <p>
     <strong>Valorant</strong> Player<br />
