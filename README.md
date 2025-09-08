@@ -72,7 +72,7 @@
     <strong>Valorant</strong> Player<br />
     Riot ID: <code>Paladino Errante#kind1</code><br />
     Discord: <code>jota_mulberry</code><br />
-    Steam: <code>JotaMulberry</code>
+    Steam: <code>Jota_Mulberry</code>
   </p>
 </div>
 
