@@ -40,6 +40,11 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white" />
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
@@ -69,10 +74,13 @@
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
   </a>
   <p>
-    <strong>Valorant</strong> Player<br />
-    Riot ID: <code>Paladino Errante#kind1</code><br />
-    Discord: <code>jota_mulberry</code><br />
-    Steam: <code>Jota_Mulberry</code>
+    <strong>Discord:</strong><code>jota_mulberry</code>
+  </p>
+  <p>
+    <strong>Steam/GOG/Epic:</strong><code>Jota_Mulberry</code>
+  </p>
+  <p>
+    <strong>Riot ID:</strong><code>Paladino Errante#kind1</code>
   </p>
 </div>
 
