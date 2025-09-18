@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white" />
